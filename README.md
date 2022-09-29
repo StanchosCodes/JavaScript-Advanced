@@ -9,3 +9,4 @@ Here you can easyly find the desired solution.
 3. [**Arrays and Nested Arrays - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Arrays%20and%20Nested%20Arrays%20-%20Lab)
 4. [**Arrays and Nested Arrays - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Arrays%20and%20Nested%20Arrays%20-%20Exercise)
 5. [**Objects and Composition - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Objects%20and%20Composition%20-%20Lab)
+6. [**Objects and Composition - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Objects%20and%20Composition%20-%20Exercise)
