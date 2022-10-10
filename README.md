@@ -13,3 +13,4 @@ Here you can easyly find the desired solution.
 7. [**DOM Introduction - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/DOM%20Introduction%20-%20Lab)
 8. [**DOM Introduction - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/DOM%20Introduction%20-%20Exercise)
 9. [**DOM Manipulation and Events - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/DOM%20Manipulations%20and%20Events%20-%20Lab)
+10. [**DOM Manipulations and Events - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/DOM%20Manipulations%20and%20Events%20-%20Exercise)
