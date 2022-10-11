@@ -14,3 +14,4 @@ Here you can easyly find the desired solution.
 8. [**DOM Introduction - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/DOM%20Introduction%20-%20Exercise)
 9. [**DOM Manipulation and Events - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/DOM%20Manipulations%20and%20Events%20-%20Lab)
 10. [**DOM Manipulations and Events - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/DOM%20Manipulations%20and%20Events%20-%20Exercise)
+11. [**Advanced Functions - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Advanced%20Functions%20-%20Lab)
