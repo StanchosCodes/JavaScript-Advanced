@@ -17,3 +17,4 @@ Here you can easyly find the desired solution.
 11. [**Advanced Functions - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Advanced%20Functions%20-%20Lab)
 12. [**Advanced Functions - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Advanced%20Functions%20-%20Exercise)
 13. [**Unit Testing and Error Handling - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Unit%20Testing%20and%20Error%20Handling%20-%20Lab)
+14. 
