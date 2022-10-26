@@ -21,3 +21,4 @@ Here you can easyly find the desired solution.
 15. [**Classes and Attributes - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Classes%20and%20Attributes%20-%20Lab)
 16. [**Classes and Attributes - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Classes%20and%20Attributes%20-%20Exercise)
 17. [**Prototypes and Inheritance - Lab**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Prototypes%20and%20Inheritance%20-%20Lab)
+18. [**Prototypes and Inheritance - Exercise**](https://github.com/StanchosCodes/SoftUni-JavaScript-Advanced/tree/main/Prototypes%20and%20Inheritance%20-%20Exercise)
